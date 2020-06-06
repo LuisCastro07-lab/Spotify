@@ -1,0 +1,48 @@
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\obj\Debug\netcoreapp3.1\Spotify.csprojAssemblyReference.cache
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\obj\Debug\netcoreapp3.1\Spotify.AssemblyInfoInputs.cache
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\obj\Debug\netcoreapp3.1\Spotify.AssemblyInfo.cs
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\obj\Debug\netcoreapp3.1\Spotify.csproj.CoreCompileInputs.cache
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\bin\Debug\netcoreapp3.1\Spotify.exe
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\bin\Debug\netcoreapp3.1\Spotify.deps.json
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\bin\Debug\netcoreapp3.1\Spotify.runtimeconfig.json
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\bin\Debug\netcoreapp3.1\Spotify.runtimeconfig.dev.json
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\bin\Debug\netcoreapp3.1\Spotify.dll
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\bin\Debug\netcoreapp3.1\Spotify.pdb
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\obj\Debug\netcoreapp3.1\Spotify.dll
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\obj\Debug\netcoreapp3.1\Spotify.pdb
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\obj\Debug\netcoreapp3.1\Spotify.genruntimeconfig.cache
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\bin\Debug\netcoreapp3.1\Interop.WMPLib.dll
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\obj\Debug\netcoreapp3.1\Interop.WMPLib.dll
+C:\Users\84812\Desktop\UPIITA-IPN\Semestre 20-2\Analisis y diseño de programas\Practicas\Spotify\obj\Debug\netcoreapp3.1\Spotify.csproj.ResolveComReference.cache
+C:\Users\84812\Desktop\Spotify\bin\Debug\netcoreapp3.1\Spotify.exe
+C:\Users\84812\Desktop\Spotify\bin\Debug\netcoreapp3.1\Spotify.deps.json
+C:\Users\84812\Desktop\Spotify\bin\Debug\netcoreapp3.1\Spotify.runtimeconfig.json
+C:\Users\84812\Desktop\Spotify\bin\Debug\netcoreapp3.1\Spotify.runtimeconfig.dev.json
+C:\Users\84812\Desktop\Spotify\bin\Debug\netcoreapp3.1\Spotify.dll
+C:\Users\84812\Desktop\Spotify\bin\Debug\netcoreapp3.1\Spotify.pdb
+C:\Users\84812\Desktop\Spotify\bin\Debug\netcoreapp3.1\Interop.WMPLib.dll
+C:\Users\84812\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.csprojAssemblyReference.cache
+C:\Users\84812\Desktop\Spotify\obj\Debug\netcoreapp3.1\Interop.WMPLib.dll
+C:\Users\84812\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.csproj.ResolveComReference.cache
+C:\Users\84812\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.AssemblyInfoInputs.cache
+C:\Users\84812\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.AssemblyInfo.cs
+C:\Users\84812\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.csproj.CoreCompileInputs.cache
+C:\Users\84812\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.dll
+C:\Users\84812\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.pdb
+C:\Users\84812\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.genruntimeconfig.cache
+C:\Users\luisc\Desktop\Spotify\bin\Debug\netcoreapp3.1\Spotify.exe
+C:\Users\luisc\Desktop\Spotify\bin\Debug\netcoreapp3.1\Spotify.deps.json
+C:\Users\luisc\Desktop\Spotify\bin\Debug\netcoreapp3.1\Spotify.runtimeconfig.json
+C:\Users\luisc\Desktop\Spotify\bin\Debug\netcoreapp3.1\Spotify.runtimeconfig.dev.json
+C:\Users\luisc\Desktop\Spotify\bin\Debug\netcoreapp3.1\Spotify.dll
+C:\Users\luisc\Desktop\Spotify\bin\Debug\netcoreapp3.1\Spotify.pdb
+C:\Users\luisc\Desktop\Spotify\bin\Debug\netcoreapp3.1\Interop.WMPLib.dll
+C:\Users\luisc\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.csprojAssemblyReference.cache
+C:\Users\luisc\Desktop\Spotify\obj\Debug\netcoreapp3.1\Interop.WMPLib.dll
+C:\Users\luisc\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.csproj.ResolveComReference.cache
+C:\Users\luisc\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.AssemblyInfoInputs.cache
+C:\Users\luisc\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.AssemblyInfo.cs
+C:\Users\luisc\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.dll
+C:\Users\luisc\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.pdb
+C:\Users\luisc\Desktop\Spotify\obj\Debug\netcoreapp3.1\Spotify.genruntimeconfig.cache
