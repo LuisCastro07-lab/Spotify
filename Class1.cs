@@ -103,8 +103,21 @@ namespace Spotify
         }
         public void agregar_cancion_playlist()
         {
-            playlist[contador] = song;
-            contador++;
+            for (int i = 0; i<=13; i++)
+            {
+                if(song == playlist[i])
+                {
+                    Console.WriteLine("La cancion ya esta agregada a la playlist");
+                    break;
+                }
+                else
+                {
+                    playlist[contador] = song;
+                    Console.WriteLine("Cancion agregada a playlist: " + playlist[contador]);
+                    contador++;
+                    break;
+                }
+            }
         }
 
         public string ubicacion(int a)

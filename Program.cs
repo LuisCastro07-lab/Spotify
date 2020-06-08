@@ -19,7 +19,7 @@ namespace Spotify
                 {
                     case 1:
                         spotify.buscar_canciones();
-                        Console.WriteLine("\n1)Reproducir cancion\n2)Agrgar a playlist\n3)Regresar\n");
+                        Console.WriteLine("\n1)Reproducir cancion\n2)Agregar a playlist\n3)Regresar\n");
                         o = int.Parse(Console.ReadLine());
                         if (o == 1)
                         {
